@@ -7,6 +7,10 @@ This repository contains my personal Python solutions to coding challenges
 and practice exercises completed on HackerRank and Kaggle. It reflects 
 self-driven practice outside of my Data Science MSc coursework.
 
+## Profiles
+- 🟢 HackerRank: [alamin_alif](https://www.hackerrank.com/profile/alamin_alif)
+- 🔵 Kaggle: [iamalif](https://www.kaggle.com/iamalif)
+
 ## Repository Structure
 | Folder | Description |
 |--------|-------------|
