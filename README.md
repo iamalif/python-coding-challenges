@@ -15,7 +15,7 @@ self-driven practice outside of my Data Science MSc coursework.
 | Folder | Description |
 |--------|-------------|
 | `hackerrank` | Python solutions to HackerRank challenges |
-| `kaggle` | Kaggle exercises and notebooks *(coming soon)* |
+| `kaggle` | Kaggle exercises and notebooks |
 
 ## HackerRank Topics
 - Problem solving
